@@ -1,0 +1,11 @@
+F:\C#\FixCSVAssignment\FixCSVAssignment\bin\Debug\FixCSVAssignment.exe.config
+F:\C#\FixCSVAssignment\FixCSVAssignment\bin\Debug\FixCSVAssignment.exe
+F:\C#\FixCSVAssignment\FixCSVAssignment\bin\Debug\FixCSVAssignment.pdb
+F:\C#\FixCSVAssignment\FixCSVAssignment\obj\Debug\FixCSVAssignment.csproj.AssemblyReference.cache
+F:\C#\FixCSVAssignment\FixCSVAssignment\obj\Debug\FixCSVAssignment.csproj.SuggestedBindingRedirects.cache
+F:\C#\FixCSVAssignment\FixCSVAssignment\obj\Debug\FixCSVAssignment.MainForm.resources
+F:\C#\FixCSVAssignment\FixCSVAssignment\obj\Debug\FixCSVAssignment.Properties.Resources.resources
+F:\C#\FixCSVAssignment\FixCSVAssignment\obj\Debug\FixCSVAssignment.csproj.GenerateResource.cache
+F:\C#\FixCSVAssignment\FixCSVAssignment\obj\Debug\FixCSVAssignment.csproj.CoreCompileInputs.cache
+F:\C#\FixCSVAssignment\FixCSVAssignment\obj\Debug\FixCSVAssignment.exe
+F:\C#\FixCSVAssignment\FixCSVAssignment\obj\Debug\FixCSVAssignment.pdb
